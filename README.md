@@ -64,45 +64,45 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 # Series 5 - Horizon Rush Takeover
 
-Mini Cooper S FE 2699
+- Mini Cooper S FE 2699
 
-KTM X-Bow GT4 3035
+- KTM X-Bow GT4 3035
 
-Noble M600 1253
+- Noble M600 1253
 
-Nissan GT-R Nismo 2020 3622
+- Nissan GT-R Nismo 2020 3622
 
 # Series 6 - Horizon Customs
 
-Ascari KZ1R 1451
+- Ascari KZ1R 1451
 
-McLaren 765LT 3482
+- McLaren 765LT 3482
 
-ATS GT 3195
+- ATS GT 3195
 
-McLaren 650S Spider 3087 
+- McLaren 650S Spider 3087 
 
 # Series 7 - Cinco De Mayo
 
-Ferrari SF90 Stradale 3595
+- Ferrari SF90 Stradale 3595
 
-Ferrari 250 GT 1578
+- Ferrari 250 GT 1578
 
-Ferrari California T 2194
+- Ferrari California T 2194
 
-Ferrari 512 TR 255
+- Ferrari 512 TR 255
 
-Ferrari F8 Tributo 3367
+- Ferrari F8 Tributo 3367
 
 # Series 8 - German Automotive
 
-Porsche 959 269
+- Porsche 959 269
 
-Porsche 911 GT3 '21 3667
+- Porsche 911 GT3 '21 3667
 
-Merc-AMG GT S 2242
+- Merc-AMG GT S 2242
 
-Audi RS 4 Avant '18 3318
+- Audi RS 4 Avant '18 3318
 
 # Series 9 - Hotwheels
 
@@ -112,7 +112,7 @@ Audi RS 4 Avant '18 3318
 
 - Dodge Coronet Super Bee 1352
 
-Series 10 Forza EV Presents Extreme E
+# Series 10 - Forza EV Presents Extreme E
 
 - 58 Extreme E 3727
 
@@ -225,3 +225,5 @@ Series 10 Forza EV Presents Extreme E
 
 # Extras
 - Ford Mustang Mach-E 3598 
+
+
