@@ -4,7 +4,7 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 # All series together
 <details>
-<summary> Click to expand> </summary>
+<summary> Click to expand </summary>
 
 # Series 0
 
