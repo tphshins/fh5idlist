@@ -3,12 +3,18 @@
 All credits go to @Chr1s2287/d5aqoep#6233
 
 # Series 0
+<details>
+<summary> Click to expand </summary>
 
 - Honda NSX-R GT, ID - 569
 
 - Honda Civic Coupe 2016, ID - 3069
 
+</details>
+
 # Series 1 - Welcome to Mexico
+<details>
+<summary> Click to expand </summary>
 
 - DeLorean DMC-12, ID - 1270
 
@@ -18,7 +24,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Raesr Tachyon Speed, ID - 3196
 
+</details>
+
 # Series 2 - Holiday Special
+<details>
+<summary> Click to expand </summary>
 
 - Lamborghini Aventador SVJ, ID - 3289
 
@@ -36,7 +46,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Ferrari 575M Mararello, ID - 257
 
+</details>
+
 # Series 3 - Happy New Year
+<details>
+<summary> Click to expand </summary>
 
 - Zenvo ST1, ID - 2474
 
@@ -52,7 +66,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Vauxhall Lotus Carlton, ID - 291
 
+</details>
+
 # Series 4 - Horizon World Cup
+<details>
+<summary> Click to expand </summary>
 
 - Nio EP9, ID - 3366
 
@@ -62,7 +80,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - MG MG3, ID - 2173
 
+</details>
+
 # Series 5 - Horizon Rush Takeover
+<details>
+<summary> Click to expand </summary>
 
 - Mini Cooper S FE, ID - 2699
 
@@ -72,7 +94,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Nissan GT-R Nismo 2020, ID - 3622
 
+</details>
+
 # Series 6 - Horizon Customs
+<details>
+<summary> Click to expand </summary>
 
 - Ascari KZ1R, ID - 1451
 
@@ -82,7 +108,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - McLaren 650S Spider, ID - 3087 
 
+</details>
+
 # Series 7 - Cinco De Mayo
+<details>
+<summary> Click to expand </summary>
 
 - Ferrari SF90 Stradale, ID - 3595
 
@@ -94,7 +124,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Ferrari F8 Tributo, ID - 3367
 
+</details>
+
 # Series 8 - German Automotive
+<details>
+<summary> Click to expand </summary>
 
 - Porsche 959, ID - 269
 
@@ -104,7 +138,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Audi RS 4 Avant '18, ID - 3318
 
+</details>
+
 # Series 9 - Hotwheels
+<details>
+<summary> Click to expand </summary>
 
 - Lamborghini Aventador J, ID - 1583
 
@@ -112,7 +150,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Dodge Coronet Super Bee, ID - 1352
 
+</details>
+
 # Series 10 - Forza EV Presents Extreme E
+<details>
+<summary> Click to expand </summary>
 
 - 58 Extreme E, ID - 3727
 
@@ -140,7 +182,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Porsche 911 Reimagined by Singer, ID - 3248
 
+</details>
+
 # Series 11 - Rami's Racing History
+<details>
+<summary> Click to expand </summary>
 
 - BMW M4 Competition Coupe, ID - 3645
 
@@ -152,7 +198,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Xpeng P7, ID - 3547 
 
+</details>
+
 # Series 12 - Horizon Road Trip
+<details>
+<summary> Click to expand </summary>
 
 - Audi RS E-Tron GT, ID - 3359
 
@@ -164,8 +214,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Missan Sentra Nismo, ID - 2874
 
+</details>
 
 # Series 13 - Horizon Anniversary
+<details>
+<summary> Click to expand </summary>
 
 - Ferrari 599XX, ID - 1171
 
@@ -175,7 +228,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Aston Martin One-77, ID - 1181
 
+</details>
+
 # Series 14 - Donut Media
+<details>
+<summary> Click to expand </summary>
 
 - Link & Co 20, ID - 3552
 
@@ -185,8 +242,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Morris Series II Traveler, ID - 3116
 
+</details>
 
 # Series 15 - Horizon Holidays
+<details>
+<summary> Click to expand </summary>
 
 - AMC Javelin, ID - 1267
 
@@ -198,8 +258,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Lamborghini Sian Roadster (Secret Santa), ID - 3608
 
+</details>
 
 # Series 16 - #FORDzathon
+<details>
+<summary> Click to expand </summary>
 
 - MG #20 MG6 Xpower, ID - 3537
 
@@ -211,8 +274,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Renault Clio R.S. 16 Concept, ID - 3182
 
+</details>
 
 # Series 17 - Japanese Automotive
+<details>
+<summary> Click to expand </summary>
 
 - Nissan Z 2023, ID - 3620
 
@@ -222,6 +288,7 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Mitsubishi Galant VR-4, ID - 1381
 
+</details>
 
 # Extras
 - Ford Mustang Mach-E, ID - 3598 
