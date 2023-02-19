@@ -2,18 +2,13 @@
 
 All credits go to @Chr1s2287/d5aqoep#6233
 
-# All series together
+# Cars from all series together
 <details>
 <summary> Click to expand </summary>
-
-# Series 0
 
 - Honda NSX-R GT, ID - 569
 
 - Honda Civic Coupe 2016, ID - 3069
-
-
-# Series 1 - Welcome to Mexico
 
 - DeLorean DMC-12, ID - 1270
 
@@ -22,8 +17,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Italdesign Zerouno, ID - 3194
 
 - Raesr Tachyon Speed, ID - 3196
-
-# Series 2 - Holiday Special
 
 - Lamborghini Aventador SVJ, ID - 3289
 
@@ -41,8 +34,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Ferrari 575M Mararello, ID - 257
 
-# Series 3 - Happy New Year
-
 - Zenvo ST1, ID - 2474
 
 - Toyota Celica Sport, ID - 295
@@ -57,9 +48,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Vauxhall Lotus Carlton, ID - 291
 
-
-# Series 4 - Horizon World Cup
-
 - Nio EP9, ID - 3366
 
 - Wuling Sunshine, ID - 3548
@@ -67,8 +55,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Porsche 911 GT3 RS4, ID - 2297
 
 - MG MG3, ID - 2173
-
-# Series 5 - Horizon Rush Takeover
 
 - Mini Cooper S FE, ID - 2699
 
@@ -78,8 +64,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Nissan GT-R Nismo 2020, ID - 3622
 
-# Series 6 - Horizon Customs
-
 - Ascari KZ1R, ID - 1451
 
 - McLaren 765LT, ID - 3482
@@ -87,8 +71,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - ATS GT, ID - 3195
 
 - McLaren 650S Spider, ID - 3087 
-
-# Series 7 - Cinco De Mayo
 
 - Ferrari SF90 Stradale, ID - 3595
 
@@ -100,8 +82,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Ferrari F8 Tributo, ID - 3367
 
-# Series 8 - German Automotive
-
 - Porsche 959, ID - 269
 
 - Porsche 911 GT3 '21, ID - 3667
@@ -110,15 +90,11 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Audi RS 4 Avant '18, ID - 3318
 
-# Series 9 - Hotwheels
-
 - Lamborghini Aventador J, ID - 1583
 
 - Plymouth Barracuda, ID - 281
 
 - Dodge Coronet Super Bee, ID - 1352
-
-# Series 10 - Forza EV Presents Extreme E
 
 - 58 Extreme E, ID - 3727
 
@@ -146,8 +122,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Porsche 911 Reimagined by Singer, ID - 3248
 
-# Series 11 - Rami's Racing History
-
 - BMW M4 Competition Coupe, ID - 3645
 
 - Porsche 550A Spyder, ID - 1281
@@ -157,8 +131,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Subary Legacy RS, ID - 1382
 
 - Xpeng P7, ID - 3547 
-
-# Series 12 - Horizon Road Trip
 
 - Audi RS E-Tron GT, ID - 3359
 
@@ -170,8 +142,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Missan Sentra Nismo, ID - 2874
 
-# Series 13 - Horizon Anniversary
-
 - Ferrari 599XX, ID - 1171
 
 - Koenigsegg Agera 2011, ID - 1397
@@ -180,8 +150,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Aston Martin One-77, ID - 1181
 
-# Series 14 - Donut Media
-
 - Link & Co 20, ID - 3552
 
 - Morris Traveller, ID - 3142
@@ -189,8 +157,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Ford Super Deluxe Wagon, ID - 2504
 
 - Morris Series II Traveler, ID - 3116
-
-# Series 15 - Horizon Holidays
 
 - AMC Javelin, ID - 1267
 
@@ -202,8 +168,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Lamborghini Sian Roadster (Secret Santa), ID - 3608
 
-# Series 16 - #FORDzathon
-
 - MG #20 MG6 Xpower, ID - 3537
 
 - MG MG6 Xpower, ID - 3689
@@ -213,8 +177,6 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Renault Megane RS 250 2010, ID - 1204
 
 - Renault Clio R.S. 16 Concept, ID - 3182
-
-# Series 17 - Japanese Automotive
 
 - Nissan Z 2023, ID - 3620
 
