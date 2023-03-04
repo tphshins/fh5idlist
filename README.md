@@ -186,6 +186,20 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - Mitsubishi Galant VR-4, ID - 1381
 
+- Nissan Safari Turbo, ID - 2822
+
+- Subaru Brat, ID - 2140
+
+- Sierra 700, ID - 3665
+
+- Audi S1, ID - 1478
+
+- Gymkhana 9 RX, ID - 2648
+
+- Honda Ridgeline, ID - 2745
+
+- Polaris, ID - 3687
+
 </details>
 
 # Series 0
@@ -473,6 +487,8 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Toyota Sport 800, ID - 2469
 
 - Mitsubishi Galant VR-4, ID - 1381
+
+</details>
 
 # Series 18 - Horizon Wilds Takeover
 <details>
