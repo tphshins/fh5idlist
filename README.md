@@ -1,6 +1,34 @@
-# FH5 Series 0-17 Car ID List
+# FH5 Series 0-18 Car ID List
 
 All credits go to @Chr1s2287/d5aqoep#6233
+
+# Best cars to buy and sell
+<details>
+<summary> Click to expand </summary>
+
+- McLaren 765LT, ID - 3482
+
+- Lamborghini Aventador SVJ, ID - 3289
+
+- Ferrari SF90 Stradale, ID - 3595
+
+- Ferrari F8 Tributo, ID - 3367
+
+- Porsche 911 GT3 '21, ID - 3667
+
+- Lamborghini Aventador J, ID - 1583
+
+- Audi RS 7 Sportsback, ID - 3584
+
+- Aston Martin One-77, ID - 1181
+
+- Koenigsegg Agera 2011, ID - 1397
+
+- Ferrari 599XX, ID - 1171
+
+- DeLorean DMC-12, ID - 1270
+
+</details>
 
 # Cars from all series together
 <details>
