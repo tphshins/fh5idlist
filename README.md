@@ -537,6 +537,39 @@ All credits go to @Chr1s2287/d5aqoep#6233
 - Polaris, ID - 3687
 </details>
 
+# Series 19 - Rally Adventure
+<details>
+<summary> Click to expand </summary>
+
+- 2022 Alumicraft Trick Truck, ID - 3693
+
+- 2021 Alumacraft Class 1 Buddy, ID - 3549
+
+- 2019 Casey Currie Trophy Jeep, ID - 3603
+
+- 1973 Hoonigan Scumbug, ID - 3553
+
+- 2020 Jimco Hammerhead, ID - 3604
+
+- 2019 Jumco Trophy Truck, ID - 3605
+
+- 2021 Polaris Pro XP Factory Racing, ID - 3686
+
+- 2021 RJ Anderson Pro Truck, ID - 3662
+
+- 2022 Ford F-150 Lighning, ID - 3692
+
+- 2001 Ford Focus RS, ID - 3670
+
+- 2022 Cadillac CT5, ID - 3720
+
+- 2022 Cadillac CT4, ID - 3719
+
+- 2021 Rimac Nevera, ID 3625
+
+- 2021 Lexus LC 500, ID - 3520
+</details>
+
 </details>
 
 # Extras
