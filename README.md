@@ -1,4 +1,4 @@
-# FH5 Series 0-18 Car ID List
+# FH5 Series 0-20 Car ID List
 
 All credits go to @Chr1s2287/d5aqoep#6233
 
@@ -569,6 +569,18 @@ All credits go to @Chr1s2287/d5aqoep#6233
 
 - 2021 Lexus LC 500, ID - 3520
 </details>
+
+# Series 20
+<details>
+<summary> Click to expand </summary>
+- Lamborghini Huracan STO 2020, - ID 3672
+
+- Porsche Mission R 2022, - ID 3698
+
+- Porsche #70 935, - ID 3214
+
+- Audi RS6 Avant, - ID 3583
+
 
 </details>
 
