@@ -573,6 +573,7 @@ All credits go to @Chr1s2287/d5aqoep#6233
 # Series 20
 <details>
 <summary> Click to expand </summary>
+
 - Lamborghini Huracan STO 2020, - ID 3672
 
 - Porsche Mission R 2022, - ID 3698
