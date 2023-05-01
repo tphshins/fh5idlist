@@ -1,7 +1,5 @@
 # FH5 Series 0-20 Car ID List
 
-All credits go to @Chr1s2287/d5aqoep#6233
-
 # Best cars to buy and sell
 <details>
 <summary> Click to expand </summary>
