@@ -1,5 +1,7 @@
 # FH5 Series 0-20 Car ID List
 
+---
+
 # Best cars to buy and sell
 <details>
 <summary> Click to expand </summary>
@@ -28,6 +30,8 @@
 
 </details>
 
+---
+
 # Series 0
 <details>
 <summary> Click to expand </summary>
@@ -37,6 +41,8 @@
 - Honda Civic Coupe 2016, ID - 3069
 
 </details>
+
+---
 
 # Series 1 - Welcome to Mexico
 <details>
@@ -51,6 +57,8 @@
 - Raesr Tachyon Speed, ID - 3196
 
 </details>
+
+---
 
 # Series 2 - Holiday Special
 <details>
@@ -74,6 +82,8 @@
 
 </details>
 
+---
+
 # Series 3 - Happy New Year
 <details>
 <summary> Click to expand </summary>
@@ -94,6 +104,8 @@
 
 </details>
 
+---
+
 # Series 4 - Horizon World Cup
 <details>
 <summary> Click to expand </summary>
@@ -107,6 +119,8 @@
 - MG MG3, ID - 2173
 
 </details>
+
+---
 
 # Series 5 - Horizon Rush Takeover
 <details>
@@ -122,6 +136,8 @@
 
 </details>
 
+---
+
 # Series 6 - Horizon Customs
 <details>
 <summary> Click to expand </summary>
@@ -135,6 +151,8 @@
 - McLaren 650S Spider, ID - 3087 
 
 </details>
+
+---
 
 # Series 7 - Cinco De Mayo
 <details>
@@ -152,6 +170,8 @@
 
 </details>
 
+---
+
 # Series 8 - German Automotive
 <details>
 <summary> Click to expand </summary>
@@ -166,6 +186,8 @@
 
 </details>
 
+---
+
 # Series 9 - Hotwheels
 <details>
 <summary> Click to expand </summary>
@@ -177,6 +199,8 @@
 - Dodge Coronet Super Bee, ID - 1352
 
 </details>
+
+---
 
 # Series 10 - Forza EV Presents Extreme E
 <details>
@@ -210,6 +234,8 @@
 
 </details>
 
+---
+
 # Series 11 - Rami's Racing History
 <details>
 <summary> Click to expand </summary>
@@ -225,6 +251,8 @@
 - Xpeng P7, ID - 3547 
 
 </details>
+
+---
 
 # Series 12 - Horizon Road Trip
 <details>
@@ -242,6 +270,8 @@
 
 </details>
 
+---
+
 # Series 13 - Horizon Anniversary
 <details>
 <summary> Click to expand </summary>
@@ -256,6 +286,8 @@
 
 </details>
 
+---
+
 # Series 14 - Donut Media
 <details>
 <summary> Click to expand </summary>
@@ -269,6 +301,8 @@
 - Morris Series II Traveler, ID - 3116
 
 </details>
+
+---
 
 # Series 15 - Horizon Holidays
 <details>
@@ -286,6 +320,8 @@
 
 </details>
 
+---
+
 # Series 16 - #FORDzathon
 <details>
 <summary> Click to expand </summary>
@@ -302,6 +338,8 @@
 
 </details>
 
+---
+
 # Series 17 - Japanese Automotive
 <details>
 <summary> Click to expand </summary>
@@ -315,6 +353,8 @@
 - Mitsubishi Galant VR-4, ID - 1381
 
 </details>
+
+---
 
 # Series 18 - Horizon Wilds Takeover
 <details>
@@ -334,6 +374,8 @@
 
 - Polaris, ID - 3687
 </details>
+
+---
 
 # Series 19 - Rally Adventure
 <details>
@@ -368,6 +410,8 @@
 - 2021 Lexus LC 500, ID - 3520
 </details>
 
+---
+
 # Series 20
 <details>
 <summary> Click to expand </summary>
@@ -382,6 +426,8 @@
 
 
 </details>
+
+---
 
 ## Extras
 - Ford Mustang Mach-E, ID - 3598 
