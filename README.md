@@ -1,8 +1,8 @@
 # FH5 Series 0-20 Car ID List
 
----
 
-# Best cars to buy and sell
+
+## Best cars to buy and sell
 <details>
 <summary> Click to expand </summary>
 
@@ -30,9 +30,9 @@
 
 </details>
 
----
 
-# Series 0
+
+## Series 0
 <details>
 <summary> Click to expand </summary>
 
@@ -42,9 +42,9 @@
 
 </details>
 
----
 
-# Series 1 - Welcome to Mexico
+
+## Series 1 - Welcome to Mexico
 <details>
 <summary> Click to expand </summary>
 
@@ -58,9 +58,9 @@
 
 </details>
 
----
 
-# Series 2 - Holiday Special
+
+## Series 2 - Holiday Special
 <details>
 <summary> Click to expand </summary>
 
@@ -82,9 +82,8 @@
 
 </details>
 
----
 
-# Series 3 - Happy New Year
+## Series 3 - Happy New Year
 <details>
 <summary> Click to expand </summary>
 
@@ -104,9 +103,9 @@
 
 </details>
 
----
 
-# Series 4 - Horizon World Cup
+
+## Series 4 - Horizon World Cup
 <details>
 <summary> Click to expand </summary>
 
@@ -120,9 +119,9 @@
 
 </details>
 
----
 
-# Series 5 - Horizon Rush Takeover
+
+## Series 5 - Horizon Rush Takeover
 <details>
 <summary> Click to expand </summary>
 
@@ -136,9 +135,9 @@
 
 </details>
 
----
 
-# Series 6 - Horizon Customs
+
+## Series 6 - Horizon Customs
 <details>
 <summary> Click to expand </summary>
 
@@ -152,9 +151,9 @@
 
 </details>
 
----
 
-# Series 7 - Cinco De Mayo
+
+## Series 7 - Cinco De Mayo
 <details>
 <summary> Click to expand </summary>
 
@@ -170,9 +169,9 @@
 
 </details>
 
----
 
-# Series 8 - German Automotive
+
+## Series 8 - German Automotive
 <details>
 <summary> Click to expand </summary>
 
@@ -186,9 +185,8 @@
 
 </details>
 
----
 
-# Series 9 - Hotwheels
+## Series 9 - Hotwheels
 <details>
 <summary> Click to expand </summary>
 
@@ -200,9 +198,9 @@
 
 </details>
 
----
 
-# Series 10 - Forza EV Presents Extreme E
+
+## Series 10 - Forza EV Presents Extreme E
 <details>
 <summary> Click to expand </summary>
 
@@ -234,9 +232,9 @@
 
 </details>
 
----
 
-# Series 11 - Rami's Racing History
+
+## Series 11 - Rami's Racing History
 <details>
 <summary> Click to expand </summary>
 
@@ -252,9 +250,9 @@
 
 </details>
 
----
 
-# Series 12 - Horizon Road Trip
+
+## Series 12 - Horizon Road Trip
 <details>
 <summary> Click to expand </summary>
 
@@ -270,9 +268,8 @@
 
 </details>
 
----
 
-# Series 13 - Horizon Anniversary
+## Series 13 - Horizon Anniversary
 <details>
 <summary> Click to expand </summary>
 
@@ -286,9 +283,9 @@
 
 </details>
 
----
 
-# Series 14 - Donut Media
+
+## Series 14 - Donut Media
 <details>
 <summary> Click to expand </summary>
 
@@ -302,9 +299,7 @@
 
 </details>
 
----
-
-# Series 15 - Horizon Holidays
+## Series 15 - Horizon Holidays
 <details>
 <summary> Click to expand </summary>
 
@@ -320,9 +315,9 @@
 
 </details>
 
----
 
-# Series 16 - #FORDzathon
+
+## Series 16 - #FORDzathon
 <details>
 <summary> Click to expand </summary>
 
@@ -338,9 +333,9 @@
 
 </details>
 
----
 
-# Series 17 - Japanese Automotive
+
+## Series 17 - Japanese Automotive
 <details>
 <summary> Click to expand </summary>
 
@@ -354,9 +349,9 @@
 
 </details>
 
----
 
-# Series 18 - Horizon Wilds Takeover
+
+## Series 18 - Horizon Wilds Takeover
 <details>
 <summary> Click to expand </summary>
 
@@ -375,9 +370,9 @@
 - Polaris, ID - 3687
 </details>
 
----
 
-# Series 19 - Rally Adventure
+
+## Series 19 - Rally Adventure
 <details>
 <summary> Click to expand </summary>
 
@@ -410,9 +405,9 @@
 - 2021 Lexus LC 500, ID - 3520
 </details>
 
----
 
-# Series 20
+
+## Series 20
 <details>
 <summary> Click to expand </summary>
 
@@ -427,9 +422,117 @@
 
 </details>
 
----
 
-## Extras
+
+### Extras
 - Ford Mustang Mach-E, ID - 3598 
 
 - Brabham BT62, ID - 3285
+
+### Wheelspin exclusive
+<details>
+<summary>Click to expand</summary>
+
+- Alpine 2017 A110, ID - 2973
+
+- Audi 2013 R8 Coupe V10 Plus 5.2 Fsi Quattro, ID - 2010
+
+- Bmw 2015 X6 M, ID - 1350
+
+- Chevrolet 1970 Corvette ZR-1, ID - 315
+
+- Ferrari 1967 #24 Ferrari Spa 330 P4, ID - 2793
+
+- Ferrari 1969 Dino 246 GT, ID - 326
+
+- Ferrari 2013 458 Speciale, ID - 2184
+
+- Ford 1981 Fiesta XR2, ID - 2158
+
+- Ford 2005 GT, ID - 348
+
+- Ford 2017 N0.14 Rahal Letterman Lanigan Racing Fiesta, ID - 2937
+
+- Ford 2019 Ranger Raptor, ID - 3174
+
+- Hot Wheels 1969 Twin Mill, ID - 2750
+
+- Hot Wheels Ford F-5 Dually Custom Hot Rod, ID - 3252
+
+- Hot Wheels Nash Metropolitan Custom, ID - 3407
+
+- Hot Wheels Ford Mustang, ID - 2576
+
+- Hot Wheels Rip Rod, ID - 2751
+
+- Hotwheels 2Jetz, ID - 3405
+
+- Hyundai 2019 Veloster N, ID - 2872
+
+- Jaguar 1993 XJ220, ID - 489
+
+- Jaguar 2015 F-Type R Coupe, ID - 2162
+
+- Koenigsegg 2008 CCGT, ID - 1007
+
+- Lamborghini 2010 Murcielago LP 670-4 SV, ID - 1173
+
+- Mclaren 1993 F1, ID - 1314
+
+- Mercedes-Amg 2018 E 63 S, ID - 3250
+
+- Meyers Manx, ID - 2416
+
+- Mini 2013 X-Raid All4 Racing Countryman, ID - 2148
+
+- Pagani 2016 Huayra BC, ID - 2647
+
+- Porche 2018 Macan LPR Rally Raid, ID - 3187
+
+- Radical 2015 RXC Turbo, ID - 2486
+
+- Saleen 2004 S7, ID - 432
+
+- Subaru 1998 Impreza 22B-STI Version, ID - 363
+
+- Toyota 1985 Sprinter Trueno Gt Apex, ID - 455
+
+</details>
+
+### Forza Edition Cars
+<details> 
+<summary>Click to expand</summary>
+  
+- BMW X5 M Forza Edition, ID - 3556
+
+- Dodge Charger R/T Forza Edition, ID - 3561
+
+- Chevrolet 1953 Corvette Forza Edition, ID - 3559
+
+- Exomotive 2018 Exocet Off-Road Forza Edition, ID - 3562
+
+- Ford Racing Puma Forza Edition, ID - 3564
+
+- Lamborghini 2011 Sesto Elemento Forza Edition, ID - 2941
+
+- Maserati Gran Turismo S Forza Edition, ID - 3568
+
+- Mercedes-Benz 1998 Amg Clk Gtr Forza Edition, ID - 2948
+
+- Mercedes-Benz 2015 #24 Tankpool24 Racing Truck Forza Edition, ID - 2947
+
+- Meyers 1971 Manx Forza Edition, ID - 3570
+
+- Morris 1953 Minor 1000 Forza Edition, ID - 2964
+
+- Nissan 2003 Fairlady Z Forza Edition, ID - 2951
+
+- Pagani 2016 Huyara BC Forza Edition, ID - 3572
+
+- Pontiac 1987 Firebird Trans Am Gta Forza Edition, ID - 3573
+
+- Porsche 911 GT3 RS Forza Edition, ID - 3574
+
+- Volkswagen Beetle Forza Edition, ID - 3577
+
+</details>
