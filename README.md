@@ -73,7 +73,7 @@
 
 
 <details>
-<summary><h2 align="center">Series 1 = Welcome to mexico</h2></summary>
+<summary><h2 align="center">Series 1 - Welcome to mexico</h2></summary>
 
 - DeLorean DMC-12, ID - 1270
 
@@ -132,7 +132,7 @@
 
 
 <details>
-<summary><h2 align="center">Series 4 = Horizon world cup</h2></summary>
+<summary><h2 align="center">Series 4 - Horizon world cup</h2></summary>
 
 - Nio EP9, ID - 3366
 
