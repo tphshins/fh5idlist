@@ -3,8 +3,8 @@
 - Table of contents for series 0-21
 
 * [Series 0](#series-0)
-* [Series 1 = Welcome to Mexico](#series-1---welcome-to-mexico)
-* [Series 2 = Holiday Special](#series-2---holiday-special)
+* [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
+* [Series 2 - Holiday Special](#series-2---holiday-special)
 * [Series 3 - Happy new year](#series-3---happy-new-year)
 * [Series 4 - Horzion World cup](#series-4---horizon-world-cup)
 * [Series 5 - Horizon rush takeover](#series-5---horizon-rush-takeover)
@@ -16,11 +16,11 @@
 * [Series 11 - Rami Racing History](#series-11---ramis-racing-history)
 * [Series 12 - Horizon road trip](#series-12---horizon-road-trip)
 * [Series 13 - Horizon anniversary](#series-13---horizon-anniversary)
-* [Series 14 = Donut Media](#series-14---donut-media)
+* [Series 14 - Donut Media](#series-14---donut-media)
 * [Series 15 - Horizon Holidays](#series-15---horizon-holidays)
 * [Series 16 - Fordzathon](#series-16---fordzathon)
 * [Series 17 - Japanese automotive](#series-17---japanese-automotive)
-* [Series 18 = Horizon wilds takeover](#series-18---horizon-wilds-takeover)
+* [Series 18 - Horizon wilds takeover](#series-18---horizon-wilds-takeover)
 * [Series 19 - Rally adventure](#series-19---rally-adventure)
 * [Series 20](#series-20)
 * [Series 21 (Currently newest)](#series-21)
@@ -529,7 +529,7 @@
 
 </details>
 
-### Forza Edition Cars
+
 <details> 
 <summary><h3 align="center">Forza Edition cars</h3></summary>
   
