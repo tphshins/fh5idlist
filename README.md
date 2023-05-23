@@ -1,10 +1,41 @@
-# FH5 Series 0-20 Car ID List
+<h1 align="center"> FH5 Series 0-21 Car ID List</h1>
+
+- Table of contents for series 0-21
+
+* [Series 0](#series-0)
+* [Series 1 = Welcome to Mexico](#series-1---welcome-to-mexico)
+* [Series 2 = Holiday Special](#series-2---holiday-special)
+* [Series 3 - Happy new year](#series-3---happy-new-year)
+* [Series 4 - Horzion World cup](#series-4---horizon-world-cup)
+* [Series 5 - Horizon rush takeover](#series-5---horizon-rush-takeover)
+* [Series 6 - Horzion customs](#series-6---horizon-customs)
+* [Series 7 - Cinco de mayo](#series-7---cinco-de-mayo)
+* [Series 8 - German Automotive](#series-8---german-automotive)
+* [Series 9 - Hotwheels](#series-9---hotwheels)
+* [Series 10 - Forza Extreme E](#series-10---forza-ev-presents-extreme-e)
+* [Series 11 - Rami Racing History](#series-11---ramis-racing-history)
+* [Series 12 - Horizon road trip](#series-12---horizon-road-trip)
+* [Series 13 - Horizon anniversary](#series-13---horizon-anniversary)
+* [Series 14 = Donut Media](#series-14---donut-media)
+* [Series 15 - Horizon Holidays](#series-15---horizon-holidays)
+* [Series 16 - Fordzathon](#series-16---fordzathon)
+* [Series 17 - Japanese automotive](#series-17---japanese-automotive)
+* [Series 18 = Horizon wilds takeover](#series-18---horizon-wilds-takeover)
+* [Series 19 - Rally adventure](#series-19---rally-adventure)
+* [Series 20](#series-20)
+* [Series 21 (Currently newest)](#series-21)
+
+- Table of contents for extras
+
+* [Extras](#extras)
+* [Wheelspin Exclusive](#Wheelspin-exclusive)
+* [Forza Edition Cars](#forza-edition-cars)
 
 
-
-## Best cars to buy and sell
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Best cars to buy and sell</h2></summary>
+
+- Porsche 911 GT3 '21, ID - 3667
 
 - McLaren 765LT, ID - 3482
 
@@ -13,8 +44,6 @@
 - Ferrari SF90 Stradale, ID - 3595
 
 - Ferrari F8 Tributo, ID - 3367
-
-- Porsche 911 GT3 '21, ID - 3667
 
 - Lamborghini Aventador J, ID - 1583
 
@@ -32,9 +61,8 @@
 
 
 
-## Series 0
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 0</h2></summary>
 
 - Honda NSX-R GT, ID - 569
 
@@ -44,9 +72,8 @@
 
 
 
-## Series 1 - Welcome to Mexico
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 1 = Welcome to mexico</h2></summary>
 
 - DeLorean DMC-12, ID - 1270
 
@@ -60,9 +87,8 @@
 
 
 
-## Series 2 - Holiday Special
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 2 - Holiday Special</h2></summary>
 
 - Lamborghini Aventador SVJ, ID - 3289
 
@@ -83,9 +109,9 @@
 </details>
 
 
-## Series 3 - Happy New Year
+
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 3 - Happy new year</h2></summary>
 
 - Zenvo ST1, ID - 2474
 
@@ -105,9 +131,8 @@
 
 
 
-## Series 4 - Horizon World Cup
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 4 = Horizon world cup</h2></summary>
 
 - Nio EP9, ID - 3366
 
@@ -121,9 +146,8 @@
 
 
 
-## Series 5 - Horizon Rush Takeover
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 5 - Horizon Rush Takeover</h2></summary>
 
 - Mini Cooper S FE, ID - 2699
 
@@ -137,9 +161,8 @@
 
 
 
-## Series 6 - Horizon Customs
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 6 - Horizon customs</h2></summary>
 
 - Ascari KZ1R, ID - 1451
 
@@ -153,9 +176,8 @@
 
 
 
-## Series 7 - Cinco De Mayo
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 7 - Cinco de mayo</h2></summary>
 
 - Ferrari SF90 Stradale, ID - 3595
 
@@ -171,9 +193,8 @@
 
 
 
-## Series 8 - German Automotive
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 8 - German automotive</h2></summary>
 
 - Porsche 959, ID - 269
 
@@ -186,9 +207,9 @@
 </details>
 
 
-## Series 9 - Hotwheels
+
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 9 - Hotwheels</h2></summary>
 
 - Lamborghini Aventador J, ID - 1583
 
@@ -200,9 +221,8 @@
 
 
 
-## Series 10 - Forza EV Presents Extreme E
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 10 - Forza EV Presents Extreme E</h2></summary>
 
 - 58 Extreme E, ID - 3727
 
@@ -234,9 +254,8 @@
 
 
 
-## Series 11 - Rami's Racing History
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 11 - Rami's Racing history</h2></summary>
 
 - BMW M4 Competition Coupe, ID - 3645
 
@@ -252,9 +271,8 @@
 
 
 
-## Series 12 - Horizon Road Trip
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 12 - Horizon Road trip</h2></summary>
 
 - Audi RS E-Tron GT, ID - 3359
 
@@ -269,9 +287,9 @@
 </details>
 
 
-## Series 13 - Horizon Anniversary
+
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 13 - Horizon anniversary</h2></summary>
 
 - Ferrari 599XX, ID - 1171
 
@@ -285,9 +303,8 @@
 
 
 
-## Series 14 - Donut Media
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 14 - Donut Media</h2></summary>
 
 - Link & Co 20, ID - 3552
 
@@ -299,9 +316,10 @@
 
 </details>
 
-## Series 15 - Horizon Holidays
+
+
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 15 - Horizon holidays</h2></summary>
 
 - AMC Javelin, ID - 1267
 
@@ -317,9 +335,8 @@
 
 
 
-## Series 16 - #FORDzathon
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 16 - #FORDzathon</h2></summary>
 
 - MG #20 MG6 Xpower, ID - 3537
 
@@ -335,9 +352,8 @@
 
 
 
-## Series 17 - Japanese Automotive
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 17 - Japanese Automotive</h2></summary>
 
 - Nissan Z 2023, ID - 3620
 
@@ -351,9 +367,8 @@
 
 
 
-## Series 18 - Horizon Wilds Takeover
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 18 - Horizon Wilds Takeover</h2></summary>
 
 - Nissan Safari Turbo, ID - 2822
 
@@ -372,9 +387,8 @@
 
 
 
-## Series 19 - Rally Adventure
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 19 - Rally adventure</h2></summary>
 
 - 2022 Alumicraft Trick Truck, ID - 3693
 
@@ -407,9 +421,8 @@
 
 
 
-## Series 20
 <details>
-<summary> Click to expand </summary>
+<summary><h2 align="center">Series 20</h2></summary>
 
 - Lamborghini Huracan STO 2020, - ID 3672
 
@@ -419,7 +432,24 @@
 
 - Audi RS6 Avant, - ID 3583
 
+</details>
 
+
+
+<details> 
+<summary><h2 align="center">Series 21</h2></summary>
+
+- Cupra Formentor V25 2021, ID - 3746
+
+- Cupra Tavascan concept 2022, ID - 3747
+
+- Derbeti F-250, ID - 3439
+
+- Ford F-150 XLT 1986, ID - 3597
+
+- Chevy K10 1972, ID - 3590
+
+- GMC Hummer 2022, ID - 3722
 </details>
 
 
@@ -429,9 +459,9 @@
 
 - Brabham BT62, ID - 3285
 
-### Wheelspin exclusive
+
 <details>
-<summary>Click to expand</summary>
+<summary><h3 align="center">Wheelspin exclusive</h3></summary>
 
 - Alpine 2017 A110, ID - 2973
 
@@ -501,7 +531,7 @@
 
 ### Forza Edition Cars
 <details> 
-<summary>Click to expand</summary>
+<summary><h3 align="center">Forza Edition cars</h3></summary>
   
 - BMW X5 M Forza Edition, ID - 3556
 
