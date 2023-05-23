@@ -31,7 +31,6 @@
 * [Wheelspin Exclusive](#Wheelspin-exclusive)
 * [Forza Edition Cars](#forza-edition-cars)
 
----
 
 <h1 align="center"> Series</h1>
 
@@ -455,7 +454,6 @@
 - GMC Hummer 2022, ID - 3722
 </details>
 
----
 
 <h1 align="center"> Extras</h1>
 
