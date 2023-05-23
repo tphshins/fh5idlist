@@ -31,6 +31,7 @@
 * [Wheelspin Exclusive](#Wheelspin-exclusive)
 * [Forza Edition Cars](#forza-edition-cars)
 
+---
 
 <details>
 <summary><h2 align="center">Best cars to buy and sell</h2></summary>
