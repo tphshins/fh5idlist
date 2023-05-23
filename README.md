@@ -33,6 +33,8 @@
 
 ---
 
+<h1 align="center"> Series</h1>
+
 <details>
 <summary><h2 align="center">Best cars to buy and sell</h2></summary>
 
@@ -455,7 +457,8 @@
 
 ---
 
-### Extras
+<h1 align="center"> Extras</h1>
+
 - Ford Mustang Mach-E, ID - 3598 
 
 - Brabham BT62, ID - 3285
