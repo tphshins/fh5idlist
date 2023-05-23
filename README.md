@@ -1,6 +1,6 @@
 <h1 align="center"> FH5 Series 0-21 Car ID List</h1>
 
-- Table of contents for series 0-21
+**- Table of contents for series 0-21**
 
 * [Series 0](#series-0)
 * [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
@@ -25,7 +25,7 @@
 * [Series 20](#series-20)
 * [Series 21 (Currently newest)](#series-21)
 
-- Table of contents for extras
+**- Table of contents for extras**
 
 * [Extras](#extras)
 * [Wheelspin Exclusive](#Wheelspin-exclusive)
