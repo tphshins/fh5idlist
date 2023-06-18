@@ -461,6 +461,19 @@
 
 - Brabham BT62, ID - 3285
 
+- Ford GT OPI, ID - 3699 - Disclaimer: Wont be able to drive it unless you own the dlc
+
+- Hot wheels bad to the blade, ID = 3704
+
+- COPO Camaro, ID = 3163
+
+- DE Luxe FE, ID - 2930
+
+- R8 2013, ID - 2010
+
+- F40 C, ID = 1023
+
+- Alejandras Truck, ID - 3279 - Disclaimer: You have to buy in the autoshow, else it will not show in your garage. If you leave the game while in that car youre fucked
 
 <details>
 <summary><h3 align="center">Wheelspin exclusive</h3></summary>
