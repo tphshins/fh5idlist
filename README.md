@@ -206,6 +206,8 @@
 
 - Audi RS 4 Avant '18, ID - 3318
 
+- M3 Gts, ID - 1598
+
 </details>
 
 
