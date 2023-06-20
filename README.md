@@ -23,7 +23,8 @@
 * [Series 18 - Horizon wilds takeover](#series-18---horizon-wilds-takeover)
 * [Series 19 - Rally adventure](#series-19---rally-adventure)
 * [Series 20](#series-20)
-* [Series 21 (Currently newest)](#series-21)
+* [Series 21](#series-21)
+* [Series 22 (Currently newest)](#series-22)
 
 **- Table of contents for extras**
 
@@ -454,6 +455,33 @@
 - Chevy K10 1972, ID - 3590
 
 - GMC Hummer 2022, ID - 3722
+</details>
+
+<details> 
+<summary><h2 align="center">Series 22</h2></summary>
+
+- 2023 Nissan Z FD, ID - 3744
+
+- 2021 AMG GT Black Series, ID - 3616
+
+- 1991 GMC Syclone, ID - 1294
+ 
+- 1992 GMC Typhoon, ID - 1394
+
+- 2009 SL65 Black Series, ID - 1090
+
+- 2003 Nissan low car, ID - 3743
+
+- 2003 Nissan high car, ID - 3742
+
+- 1996 Nissan 240SX FD, ID - 3741
+
+- 1994 Ford Supervan 3 Donut Media, ID - 9007
+
+- 2022 Barbie GMC, ID - 3809
+
+- 1956 Barbie Corvette, ID - 3808
+
 </details>
 
 
