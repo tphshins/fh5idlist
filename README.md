@@ -1,8 +1,8 @@
-<h1 align="center"> FH5 Series 0-22 Car ID List</h1>
+<h1 align="center"> FH5 Series 0-3 Car ID List</h1>
 
 ## If a car isnt on this list please refer to [Here](https://airtable.com/shrSeJLd2KkV1FfDp/tbluQgnbWhDcOZYDB)
 
-**- Table of contents for series 0-22**
+**- Table of contents for series 0-23**
 
 * [Series 0](#series-0)
 * [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
@@ -26,7 +26,8 @@
 * [Series 19 - Rally adventure](#series-19---rally-adventure)
 * [Series 20](#series-20)
 * [Series 21](#series-21)
-* [Series 22 (Currently newest)](#series-22)
+* [Series 22](#series-22)
+* [Series 23 (Currently Newest)](#series-23)
 
 **- Table of contents for extras**
 
@@ -416,6 +417,20 @@
 
 </details>
 
+
+<details> 
+<summary><h2 align="center">Series 23</h2></summary>
+
+| CAR             | ID   |
+|-----------------|------|
+| Deberti Mustang | 3085 |
+| XB falcon       | 1278 |
+| Henessey Chevy  | 3284 |
+| HW firebird     | 3706 |
+| Firebird        | 1005 |
+| Toyota GR86     | 3761 |
+
+</details>
 
 <h1 align="center"> Extras</h1>
 
