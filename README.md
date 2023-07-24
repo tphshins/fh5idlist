@@ -39,20 +39,16 @@
 <h1 align="center"> Series</h1>
 
 <details>
-<summary><h2 align="center">Best cars to buy and sell</h2></summary>
+<summary><h2 align="center">Best cars to sell on the auction house</h2></summary>
 
-| Car                 | ID   |
-|---------------------|------|
-| Porsche 911 GT3 '21 | 3667 |
-| McLaren 765LT       | 3482 |
-| SF90 Stradale       | 3595 |
-| F8 Tributo          | 3367 |
-| Aventador SVJ       | 3289 |
-| Aventador J         | 1583 |
-| Audi RS 7           | 3584 |
-| Aston Martin One-77 | 1181 |
-| Koenigsegg Agera    | 1397 |
-| Ferrari 599XX       | 1171 |
+| CAR                               | ID   |
+|-----------------------------------|------|
+| Ferrari 599XX                     | 1171 |
+| Koenigsegg Agera                  | 1397 |
+| Hoonigan Gymkhana 10 Hoonicorn V2 | 3006 |
+| Italdesign Zerouno                | 3194 |
+| BMW M4 Competition Coupe          | 3645 |
+| Lamborghini Huracan STO           | 3672 |
 
 </details>
 
