@@ -430,7 +430,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 23</h2></summary>
+<summary><h2 align="center">Series 24</h2></summary>
 
 | Car                             	| ID   	|
 |---------------------------------	|------	|
