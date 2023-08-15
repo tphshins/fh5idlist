@@ -1,8 +1,8 @@
-<h1 align="center"> FH5 Series 0-23 Car ID List</h1>
+<h1 align="center"> FH5 Series 0-24 Car ID List</h1>
 
 ## If a car isnt on this list please refer to [Here](https://airtable.com/shrSeJLd2KkV1FfDp/tbluQgnbWhDcOZYDB)
 
-**- Table of contents for series 0-23**
+**- Table of contents for series 0-24**
 
 * [Series 0](#series-0)
 * [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
@@ -27,7 +27,8 @@
 * [Series 20](#series-20)
 * [Series 21](#series-21)
 * [Series 22](#series-22)
-* [Series 23 (Currently Newest)](#series-23)
+* [Series 23](#series-23)
+* [Series 24](#series-24)
 
 **- Table of contents for extras**
 
@@ -425,6 +426,34 @@
 | HW firebird     | 3706 |
 | Firebird        | 1005 |
 | Toyota GR86     | 3761 |
+
+</details>
+
+<details> 
+<summary><h2 align="center">Series 23</h2></summary>
+
+| Car                             	| ID   	|
+|---------------------------------	|------	|
+| 1980 Abarth 131                 	| 1124 	|
+| 2016 Abarth 659                 	| 2489 	|
+| 2017 Abarth 124                 	| 2740 	|
+| 1992 Alfa Romeo 155 Q4          	| 1393 	|
+| 2007 Alfa Romeo 8C Competizione 	| 1032 	|
+| 2014 Alfa Romeo 4C              	| 2038 	|
+| 1982 Lancia 037                 	| 1295 	|
+| 1986 Lancia Delta S4            	| 1661 	|
+
+**DLC Required cars:**
+
+| Car                                                     	| ID   	|
+|---------------------------------------------------------	|------	|
+| 2020 Ferrari Roma                                       	| 3594 	|
+| 2022 Ferrari 296 GTB                                    	| 3724 	|
+| 2019 Italdesign Davinci Concept                         	| 3320 	|
+| 2018 Lamborghini #63 Squadra Corse Huracàn Super Trofeo 	| 3239 	|
+| 2020 Lamborghini SC20                                   	| 3673 	|
+| 2020 Lamborghini Essenza SCV12                          	| 3606 	|
+| 2022 Lamborghini Huracàn Tecnica                        	| 3753 	|
 
 </details>
 
