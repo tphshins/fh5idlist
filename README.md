@@ -1,4 +1,4 @@
-<h1 align="center"> FH5 Series 0-24 Car ID List</h1>
+<h1 align="center"> FH5 Series 0-25 Car ID List</h1>
 
 ## If a car isnt on this list please refer to [Here](https://airtable.com/shrSeJLd2KkV1FfDp/tbluQgnbWhDcOZYDB)
 
@@ -29,6 +29,7 @@
 * [Series 22](#series-22)
 * [Series 23](#series-23)
 * [Series 24](#series-24)
+* [SEries 25 (currently newest)](#series-25)
 
 **- Table of contents for extras**
 
@@ -454,6 +455,22 @@
 | 2020 Lamborghini SC20                                   	| 3673 	|
 | 2020 Lamborghini Essenza SCV12                          	| 3606 	|
 | 2022 Lamborghini Huracàn Tecnica                        	| 3753 	|
+
+</details>
+
+<details> 
+<summary><h2 align="center">Series 25</h2></summary>
+
+| Car                    | Id   |
+|------------------------|------|
+| 1996 BMW 850CSi        | 1493 |
+| 2021 BMW M3            | 3644 |
+| 2022 BMW i4            | 3734 |
+| 2022 BMW iX            | 3737 |
+| 2022 Rivian R1S        | 3658 |
+| 2022 Rivian R1T        | 3657 |
+| 2023 BMW M2            | 3763 |
+| 2024 Chevrolette E-Ray | 3771 |
 
 </details>
 
