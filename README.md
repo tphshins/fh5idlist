@@ -90,7 +90,7 @@
 | Lamborghini Aventador SVJ           | 3289 |
 | Mercedes AMG E63 S                  | 3250 |
 | Maserati 8CTF                       | 2068 |
-| Raesr Tachyon Speed                 | 1319 |
+| Ferrari 599 GTO                     | 1319 |
 | Lamborghini Gallardo Spyder LP570-4 | 1601 |
 | Peel Trident                        | 3005 |
 | Peel P50 (Secret Santa)             | 2987 |
