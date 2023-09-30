@@ -338,7 +338,7 @@
 | Audi S1             | 1478 |
 | Gymkhana 9 RX       | 2648 |
 | Honda Ridgeline     | 2745 |
-| Polaris             | 3687 |
+| RZR PRO XP ULTIMATE | 3687 |
 
 </details>
 
