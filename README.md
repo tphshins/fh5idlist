@@ -30,7 +30,7 @@
 * [Series 23](#series-23)
 * [Series 24](#series-24)
 * [Series 25](#series-25)
-* [Series 26 current newest](#series-26)
+* [Series 26 (current newest)](#series-26)
 
 **- Table of contents for extras**
 
