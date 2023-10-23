@@ -2,7 +2,7 @@
 
 ## If a car isnt on this list please refer to [Here](https://airtable.com/shrSeJLd2KkV1FfDp/tbluQgnbWhDcOZYDB)
 
-**- Table of contents for series 0-24**
+**- Table of contents for series 0-26**
 
 * [Series 0](#series-0)
 * [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
