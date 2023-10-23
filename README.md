@@ -1,8 +1,8 @@
-<h1 align="center"> FH5 Series 0-25 Car ID List</h1>
+<h1 align="center"> FH5 Series 0-26 Car ID List</h1>
 
 ## If a car isnt on this list please refer to [Here](https://airtable.com/shrSeJLd2KkV1FfDp/tbluQgnbWhDcOZYDB)
 
-**- Table of contents for series 0-24**
+**- Table of contents for series 0-26**
 
 * [Series 0](#series-0)
 * [Series 1 - Welcome to Mexico](#series-1---welcome-to-mexico)
@@ -24,12 +24,13 @@
 * [Series 17 - Japanese automotive](#series-17---japanese-automotive)
 * [Series 18 - Horizon wilds takeover](#series-18---horizon-wilds-takeover)
 * [Series 19 - Rally adventure](#series-19---rally-adventure)
-* [Series 20](#series-20)
-* [Series 21](#series-21)
-* [Series 22](#series-22)
-* [Series 23](#series-23)
-* [Series 24](#series-24)
-* [SEries 25 (currently newest)](#series-25)
+* [Series 20 - High Performence](#series-20---High-Performence)
+* [Series 21 - Explore The Horizon](#Series-21---Explore-The-Horizon)
+* [Series 22 - Upgrade Heroes](#Series-22---Upgrade-Heroes)
+* [Series 23- Summer Party](#Series-23---Summer-Party)
+* [Series 24 - Italian Automotive](#Series-24---Italian-Automotive)
+* [Series 25 - Horizon Creatives](#Series-25---Horizon-Creatives)
+* [Series 26 - Dia De Muertos (current newest)](#Series-26---Dia-De-Muertos)
 
 **- Table of contents for extras**
 
@@ -369,7 +370,7 @@
 
 
 <details>
-<summary><h2 align="center">Series 20</h2></summary>
+<summary><h2 align="center">Series 20 - High Performence</h2></summary>
 
 | Car                     | ID   |
 |-------------------------|------|
@@ -383,7 +384,7 @@
 
 
 <details> 
-<summary><h2 align="center">Series 21</h2></summary>
+<summary><h2 align="center">Series 21 - Explore The Horizon</h2></summary>
 
 | Car                    | ID   |
 |------------------------|------|
@@ -397,7 +398,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 22</h2></summary>
+<summary><h2 align="center">Series 22 - Upgrade Heroes</h2></summary>
 
 | Car                         | ID   |
 |-----------------------------|------|
@@ -417,7 +418,7 @@
 
 
 <details> 
-<summary><h2 align="center">Series 23</h2></summary>
+<summary><h2 align="center">Series 23 - Summer Party</h2></summary>
 
 | CAR             | ID   |
 |-----------------|------|
@@ -431,7 +432,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 24</h2></summary>
+<summary><h2 align="center">Series 24 - Italian Automotive</h2></summary>
 
 | Car                             	| ID   	|
 |---------------------------------	|------	|
@@ -459,7 +460,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 25</h2></summary>
+<summary><h2 align="center">Series 25 - Horizon Creatives</h2></summary>
 
 | Car                    | Id   |
 |------------------------|------|
@@ -471,6 +472,22 @@
 | 2022 Rivian R1T        | 3657 |
 | 2023 BMW M2            | 3763 |
 | 2024 Chevrolette E-Ray | 3771 |
+
+</details>
+
+<details> 
+<summary><h2 align="center">Series 26 - Dia De Muertos</h2></summary>
+
+| Car                    | Id   |
+|------------------------|------|
+| 2010 Nissan Tsuru      | 3810 |
+| 2023 Meyers Manx 2.0   | 3795 |
+| 2022 Ford Bronco Raptor| 3736 |
+| 1951 Porsche #46       | 3111 |
+| 2022 Volkswagen Golf R | 3533 |
+| 2022 Porsche 718       | 3760 |
+| 2020 KTM X-Bow GT2     | 3492 |
+| 2019 Elemental RP1     | 3334 |
 
 </details>
 
