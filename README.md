@@ -24,13 +24,13 @@
 * [Series 17 - Japanese automotive](#series-17---japanese-automotive)
 * [Series 18 - Horizon wilds takeover](#series-18---horizon-wilds-takeover)
 * [Series 19 - Rally adventure](#series-19---rally-adventure)
-* [Series 20](#series-20)
-* [Series 21](#series-21)
-* [Series 22](#series-22)
-* [Series 23](#series-23)
-* [Series 24](#series-24)
-* [Series 25](#series-25)
-* [Series 26 (current newest)](#series-26)
+* [Series 20 - High Performence](#series-20---High-Performence)
+* [Series 21 - Explore The Horizon](#Series-21---Explore-The-Horizon)
+* [Series 22 - Upgrade Heroes](#Series-22---Upgrade-Heroes)
+* [Series 23- Summer Party](#Series-23---Summer-Party)
+* [Series 24 - Italian Automotive](#Series-24---Italian-Automotive)
+* [Series 25 - Horizon Creatives](#Series-25---Horizon-Creatives)
+* [Series 26 - Dia De Muertos (current newest)](#Series-26---Dia-De-Muertos)
 
 **- Table of contents for extras**
 
@@ -370,7 +370,7 @@
 
 
 <details>
-<summary><h2 align="center">Series 20</h2></summary>
+<summary><h2 align="center">Series 20 - High Performence</h2></summary>
 
 | Car                     | ID   |
 |-------------------------|------|
@@ -384,7 +384,7 @@
 
 
 <details> 
-<summary><h2 align="center">Series 21</h2></summary>
+<summary><h2 align="center">Series 21 - Explore The Horizon</h2></summary>
 
 | Car                    | ID   |
 |------------------------|------|
@@ -398,7 +398,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 22</h2></summary>
+<summary><h2 align="center">Series 22 - Upgrade Heroes</h2></summary>
 
 | Car                         | ID   |
 |-----------------------------|------|
@@ -418,7 +418,7 @@
 
 
 <details> 
-<summary><h2 align="center">Series 23</h2></summary>
+<summary><h2 align="center">Series 23 - Summer Party</h2></summary>
 
 | CAR             | ID   |
 |-----------------|------|
@@ -432,7 +432,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 24</h2></summary>
+<summary><h2 align="center">Series 24 - Italian Automotive</h2></summary>
 
 | Car                             	| ID   	|
 |---------------------------------	|------	|
@@ -460,7 +460,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 25</h2></summary>
+<summary><h2 align="center">Series 25 - Horizon Creatives</h2></summary>
 
 | Car                    | Id   |
 |------------------------|------|
@@ -476,7 +476,7 @@
 </details>
 
 <details> 
-<summary><h2 align="center">Series 26</h2></summary>
+<summary><h2 align="center">Series 26 - Dia De Muertos</h2></summary>
 
 | Car                    | Id   |
 |------------------------|------|
