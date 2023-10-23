@@ -1,4 +1,4 @@
-<h1 align="center"> FH5 Series 0-25 Car ID List</h1>
+<h1 align="center"> FH5 Series 0-26 Car ID List</h1>
 
 ## If a car isnt on this list please refer to [Here](https://airtable.com/shrSeJLd2KkV1FfDp/tbluQgnbWhDcOZYDB)
 
@@ -29,7 +29,8 @@
 * [Series 22](#series-22)
 * [Series 23](#series-23)
 * [Series 24](#series-24)
-* [SEries 25 (currently newest)](#series-25)
+* [Series 25](#series-25)
+* [Series 26 current newest](#series-26)
 
 **- Table of contents for extras**
 
@@ -471,6 +472,22 @@
 | 2022 Rivian R1T        | 3657 |
 | 2023 BMW M2            | 3763 |
 | 2024 Chevrolette E-Ray | 3771 |
+
+</details>
+
+<details> 
+<summary><h2 align="center">Series 26</h2></summary>
+
+| Car                    | Id   |
+|------------------------|------|
+| 2010 Nissan Tsuru      | 3810 |
+| 2023 Meyers Manx 2.0   | 3795 |
+| 2022 Ford Bronco Raptor| 3736 |
+| 1951 Porsche #46       | 3111 |
+| 2022 Volkswagen Golf R | 3533 |
+| 2022 Porsche 718       | 3760 |
+| 2020 KTM X-Bow GT2     | 3492 |
+| 2019 Elemental RP1     | 3334 |
 
 </details>
 
